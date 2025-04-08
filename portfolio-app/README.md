@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### MY NOTES:
+ - Shortcut for creating react template boilerplate code:
+ - rafce
+ - unsplash.com for royalty free images (copy image address directly.)
+ - TODO: Fix the max-min widths for some media queries, especially within Home page route for the <Work /> component.
