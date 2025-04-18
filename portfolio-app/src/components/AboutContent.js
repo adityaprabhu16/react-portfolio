@@ -2,15 +2,15 @@ import "./AboutContentStyles.css";
 
 import React from 'react';
 import { Link } from "react-router-dom";
-import React1 from "../assets/react1.jpg";
-import React2 from "../assets/react2.webp";
+import React1 from "../assets/assets_updated/React1.png";
+import React2 from "../assets/assets_updated/React2.png";
 
 const AboutContent = () => {
     return (
         <div className="about">
             <div className="left">
                 <h1>Who am I?</h1>
-                <p>I'm a react frontend developer. I create responsive secure websites for my clients.</p>
+                <p>I'm a software engineer. I build software for low latency applications, automation, as well as simple plug and play systems to visualize and make decisions from data. Take a look at a couple dashboards I have created on the right in React.js!</p>
                 <Link to="/contact">
                     <button className="btn">Contact</button>
                 </Link>

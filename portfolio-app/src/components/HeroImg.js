@@ -2,7 +2,7 @@ import "./HeroImgStyles.css";
 
 
 import React from 'react'
-import IntroImg from "../assets/intro-bg.jpg";
+import IntroImg from "../assets/assets_updated/intro-bg.jpg";
 import { Link } from "react-router-dom";
 
 const HeroImg = () => {
@@ -12,9 +12,10 @@ const HeroImg = () => {
             <img className="intro-img" src={IntroImg} alt="IntroImg"/>
         </div>
         <div className="content">
-            <p>HI, I'M A FREELANCER.</p>
-            <h1>React Developer.</h1>
-            <div>
+            <p>HI, I'M A Software & AI Engineer.</p>
+            <h1>Projects Overview.</h1>
+            <p className="hero-description">I build intelligent systems, including chatbots, automation, and beautiful applications.</p>
+            <div className="hero-btns">
                 <Link to="/project" className="btn">Projects</Link>
                 <Link to="/contact" className="btn-light">Contact</Link>
             </div>

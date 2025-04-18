@@ -10,7 +10,7 @@ const WorkCard = ({myData}) => {
             <p>{myData.text}</p>
             <div className="pro-btns">
                 <NavLink to={myData.view} className="btn">View</NavLink>
-                <NavLink to="git.com" className="btn">Source</NavLink>
+                <NavLink to={myData.source} className="btn">Source</NavLink>
             </div>
         </div>
     </div>
