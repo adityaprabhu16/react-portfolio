@@ -30,7 +30,7 @@ const Footer = () => {
             </div>
             <div className="right">
                 <h4>About Me.</h4>
-                <p>I am Aditya Prabhu, and I enjoy building practical things. My highlighted projects either have active users, are part of a publication, or are in development for a future launch.</p>
+                <p>I am Aditya Prabhu, and I build practical things. My highlighted projects either have active users, are part of a publication, or are in development for a future launch.</p>
                 <div className="social">
                   <a href="https://www.youtube.com/@CanopySystemsTech">
                     <FaYoutube
