@@ -30,7 +30,7 @@ const ProjectCardData = [
     {
         imgsrc: pro4,
         title: "Low Latency Data Streaming for Smart Irrigation",
-        text: "I created a custom real-time data streaming interface using MQTT, Telegraf, and InfluxDB so I can monitor (and even trigger!) my irrigation controls remotely! I also explored MaterialUI to create beautiful engaging charts, as well as REACT CONTEXT API to share data between components and update with the latest data in the UI!",
+        text: "I created a custom real-time data streaming interface using MQTT, Telegraf, and InfluxDB so I can monitor (and even trigger!) my irrigation controls remotely! I also explored MaterialUI to create engaging charts, as well as REACT CONTEXT API to share data between components and update with the latest data in the UI!",
         view: "https://www.youtube.com/watch?v=EhA_aZHVxLM",
         source: "https://www.youtube.com/@CanopySystemsTech"
     },
